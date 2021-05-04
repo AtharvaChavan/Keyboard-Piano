@@ -1,5 +1,5 @@
 # Keyboard - Piano
-http://keyboard-piano.ml/ <br> OR <br> http://atharvachavan.me/Keyboard-Piano/ <br> OR <br> https://atharvachavan.github.io/Keyboard-Piano/ <br> <br>
+keyboard-piano.ml/ <br> OR <br> atharvachavan.github.io/Keyboard-Piano/  {Will redirect you} <br><br>
 Use bottom 2 rows of keyboard to play or mouse indeed
 <br>
 ![image](https://user-images.githubusercontent.com/35627981/116963320-29d10b80-acc6-11eb-8c11-bcf2dd8388aa.png)
